@@ -64,7 +64,7 @@ To run one dealer and M players, N watchers:
 
 ## Deployment
 
-CADE can be used as a C library with the way is similar as examples
+CADE can be used as a C library with the way similar as examples
 
 
 ## Contributing
