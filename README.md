@@ -4,7 +4,7 @@ CADE (Cards Dealing) is a small library to implement a scenario "Poker table" as
 ```
 No node has the same card.
 If a node is down, the resources served by the node is moved to then served by other nodes so that the service is not interupted. And the change is the least.
-If a new node is up and join, resource is redistributed to this node so that the number os resource are the most balanced. And the chage is the least.
+If a new node is up and join, resource is redistributed to this node so that the number of resource are the most balanced. And the chage is the least.
 A node is discovered automatically without hard configuration
 ```
 To do that, CADE implement 3 role
